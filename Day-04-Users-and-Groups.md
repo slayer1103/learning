@@ -61,6 +61,7 @@ Traversal logic
 Linux evaluates directory access step-by-step from root to the target path.
 A user must have execute (x) permission on every parent directory to reach the final file or folder.
 
+<img width="969" height="564" alt="image" src="https://github.com/user-attachments/assets/97ee1a8f-8ff9-4151-984d-c93cbfd70f92" />
 
 
 
